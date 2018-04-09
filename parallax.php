@@ -48,7 +48,7 @@
              </p>
             </div>
             <div class="card-action">
-              <a href="hyperlapse/examples/viewer.html">Ping your location anywhere in the world </a>
+              <a href="Hyperlapse/examples/viewer.html">Ping your location anywhere in the world </a>
             </div>
           </div>
         </div>
